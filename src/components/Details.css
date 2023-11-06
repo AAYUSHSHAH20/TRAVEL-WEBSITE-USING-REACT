@@ -1,0 +1,32 @@
+.tour_content{
+    margin-right: 500px;
+}
+.tour_content img{
+    width: 100%;
+    height: 400px;
+    margin-top: 150px;   
+}
+.checked {
+    color: orange;
+    margin-right: 700px;
+  }
+
+  .tour_info h2{
+    margin-right: 600px;
+  }
+
+  .tour_info h4{
+    margin-right: 450px;
+  }
+
+  .about{
+    margin-top: 30px;
+    margin-right: 700px;
+   
+  }
+
+  .describe{
+    margin-top: 10px;
+    
+    margin-bottom: 100px;
+  } 
